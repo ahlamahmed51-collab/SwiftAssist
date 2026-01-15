@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://swift-assist-jet.vercel.app/sitemap.xml
